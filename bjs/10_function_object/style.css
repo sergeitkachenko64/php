@@ -1,0 +1,28 @@
+.card-header {
+  font-size: large;
+  font-weight: 500;
+  color: rgb(240, 241, 129);
+  background: rgb(167, 167, 20);
+  box-shadow: 10px 10px 2px 1px rgba(210, 210, 210, 0.6);
+}
+
+.card-body {
+  color: rgb(250, 71, 0);
+  background: rgb(238, 215, 5);
+  box-shadow: 10px 10px 2px 1px rgba(210, 210, 210, 0.6);
+}
+
+#genderOutput {
+  font-size: large;
+  color: rgb(58, 107, 64);
+}
+
+#comma {
+  font-size: large;
+  color: rgb(58, 107, 64);
+}
+
+#birthYearOutput {
+  font-size: large;
+  color: rgb(58, 107, 64);
+}
